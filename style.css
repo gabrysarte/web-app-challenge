@@ -48,34 +48,28 @@
   .titoloFilm {
     display: block;
     text-align: center;
-    font-family: system-ui;
   }
 
   .descrizioneFilm {
     display: block;
-    font-family: system-ui;
   }
 
   .giorniFilm {
     display: block;
-    font-family: system-ui;
     text-align: center;
   }
 
   .orariFilm {
     display: block;
-    font-family: system-ui;
     text-align: center;
   }
 
   .homeTitle {
     text-align: center;
-    font-family: system-ui;
   }
 
   .copyright {
     text-align: center;
     color: #000000;
     width: 100%;
-    font-family: system-ui;
   }
