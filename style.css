@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: system-ui;
   }
 
   body {
@@ -17,7 +17,7 @@
     text-decoration: none;
   }
 
-  .ft_list {
+  .corpoFilm {
     background-color: seashell;
     box-shadow: -14px -14px 20px 0px rgba(255, 255, 255, 0.17),
       15px 15px 25px 0px rgba(0, 0, 0, 0.16);
@@ -47,19 +47,35 @@
 
   .titoloFilm {
     display: block;
+    text-align: center;
+    font-family: system-ui;
   }
 
   .descrizioneFilm {
     display: block;
+    font-family: system-ui;
   }
 
-  .homepage {
+  .giorniFilm {
+    display: block;
+    font-family: system-ui;
     text-align: center;
-    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  .orariFilm {
+    display: block;
+    font-family: system-ui;
+    text-align: center;
+  }
+
+  .homeTitle {
+    text-align: center;
+    font-family: system-ui;
   }
 
   .copyright {
     text-align: center;
     color: #000000;
     width: 100%;
+    font-family: system-ui;
   }
