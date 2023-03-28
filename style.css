@@ -8,11 +8,12 @@
   }
 
   a {
+    color: #d2a161;
     text-decoration: none;
   }
 
   a:visited {
-    color: #1717b8;
+    color: #d2a161;
     background-color: transparent;
     text-decoration: none;
   }
